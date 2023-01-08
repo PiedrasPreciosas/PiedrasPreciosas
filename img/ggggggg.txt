@@ -1,0 +1,35 @@
+Html a foundation of a webpage where in you can build from scratch
+anyone can learn this without having a coding background.
+Css basics of designing, customizing webpage it help your webpage 
+to look great.
+
+Day 1
+
+I. Main Heading
+	A. Sub
+	1.intro to html and the web
+	2.setting up dev environment
+	3.Basics of html structures and syntax
+II
+	4.Headings and paragraph
+	5.text formating and style
+	6.link and anchors
+	7.managing images
+	8.Lists
+	9.Tables
+	10.Forms
+Day 2
+
+	11.HTML 5 semantic elements
+	12. HTML Layout and responsive
+	13. intro to css
+	14. advance html techniques and practices
+
+well planed topics segrated by parts properly
+
+session plan
+
+Objectives for day 1
+*learn how to use bootstrapt
+*understanding how bootstrapt works
+*they realize how important the css as a foundation before engaging bootstrapt

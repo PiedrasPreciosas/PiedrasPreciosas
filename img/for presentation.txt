@@ -1,0 +1,25 @@
+Good day everyone today im gonna present the crash course of HTML, CSS and Bootstrap.
+in the first 3 tutorial in the given crash course it discussed the introduction (who can take this course and 
+based knowledge needed. everyone can take this tutorial even you dont have knowledge in coding), a responsive and 
+mobile design can create a page project from scratch. code editor to be use, inspecting function of google chrome, 
+html tags like <p>paragraph or <img> image tag and also HTML forms like input types such as text, email and password. 
+but not limited in other input types like radio, dropdown and text area so on.
+
+next is the CSS basics in tutorial #4 in this tutorial it tuckle the use of style attribute for customizing the 
+design in any html element. gives a lot of examples from changing background color, font size, font decaration, 
+image resizing up to customizing division or div. 
+in tutorial #5 it discussed about the classes or identifying a certain tag and selector to target the specific 
+anchor tag without given classes or identifier. 
+from tutorial #6 up to the end it discussed the google chrome dev tools where in you can cross check your webpage using
+a browser like google chrome. 
+next is css layouts proper positioning of text, images of division for proper design. in some other tutorial also discuss the hover effect 
+for text, list and images.
+also discussed the pseudo elements. the last part of the tuturial is about media queries where in you can customize your
+implemented css for different screen size like desktop, tablet and cellular phone.
+
+bootstrapt discussed more on built in function once you get the cdn from there site. also their responsive is alot of time saving
+almost all of their tag are more convinient than the conventional css style.the advantage of using this is you can create a page with
+responsive design in no time. the disabvantage of this are you will comfortable of using bootstrapt that you almost forgot how the 
+conventional css worked. another one is easy to use you only need to do is just go to their website and check those you need like 
+text box, button, forms.
+
